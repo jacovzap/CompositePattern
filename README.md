@@ -1,7 +1,7 @@
 # EJEMPLO UTILIZANDO EL PATRON DE DISEÑO ESTRUCTURAL COMPOSITE
 
 ### ENUNCIADO DEL PROBLEMA
-##### Se tiene una empresa de desarrollo de software que utiliza metodologias agiles en el desarrollo de sus proyectos. Con este fin, la empresa necesita agupar a los empleados en varios equipos de desarrollo pertenecientes a la misma jerarquia, del mismo modo estos equipos pertenecen a una jerarquia mayor, la empresa. 
+Se tiene una empresa de desarrollo de software que utiliza metodologias agiles en el desarrollo de sus proyectos. Con este fin, la empresa necesita agupar a los empleados en varios equipos de desarrollo pertenecientes a la misma jerarquia, del mismo modo estos equipos pertenecen a una jerarquia mayor, la empresa. 
 Al ser una empresa relativamente pequeña solo trabaja con un proyecto a la vez.
 ### SOLUCION AL PROBLEMA
 Se utilizo el patron COMPOSITE que nos permite componer objetos en estructuras de arbol y trabajar con esas estructuras como si fueran individuales.
