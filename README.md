@@ -48,3 +48,29 @@ En el caso de la empresa, se tiene un unico Product Owner y un unico Scrum Maste
 ```
 ### RESULTADOS
 Como resultado el programa imprime:
+```
+            -------- Product Owner ---------
+            Nombre: Pablo
+            Ci: 456789
+            -------- ScrumMaster ---------
+            Nombre: Rodrigo
+            Ci: 45698
+            -------- UXSpecialist ---------
+            Nombre: Pepe
+            Ci: 343233
+            -------- DEVELOPER ---------
+            Nombre: Pedro
+            Ci: 666768
+            -------- QA Engineer ---------
+            Nombre: Rosa
+            Ci: 887908
+            -------- UXSpecialist ---------
+            Nombre: Maria
+            Ci: 345765
+            -------- DEVELOPER ---------
+            Nombre: Alejandra
+            Ci: 590087
+            -------- QA Engineer ---------
+            Nombre: Kevin
+            Ci: 124724
+```

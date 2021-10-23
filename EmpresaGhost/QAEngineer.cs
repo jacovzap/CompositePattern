@@ -19,7 +19,7 @@ namespace EmpresaGhost
         {
             Console.WriteLine("-------- QA Engineer ---------");
             Console.WriteLine($"Nombre: {Name}");
-            Console.WriteLine($"Nombre: {Ci}");
+            Console.WriteLine($"Ci: {Ci}");
         }
     }
 }

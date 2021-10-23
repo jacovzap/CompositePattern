@@ -18,7 +18,7 @@ namespace EmpresaGhost
         {
             Console.WriteLine("-------- UXSpecialist ---------");
             Console.WriteLine($"Nombre: {Name}");
-            Console.WriteLine($"Nombre: {Ci}");
+            Console.WriteLine($"Ci: {Ci}");
         }
     }
 }
