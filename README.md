@@ -7,7 +7,7 @@ Al ser una empresa relativamente pequeña solo trabaja con un proyecto a la vez.
 Se utilizo el patron COMPOSITE que nos permite componer objetos en estructuras de arbol y trabajar con esas estructuras como si fueran individuales.
 En el caso de la empresa, se tiene un unico Product Owner y un unico Scrum Master, estos representan hojas finales en el arbol empresa, sin embargo existen equipos de desarrollo que tienen detro de si mas empleados.
 
-![TreeDiagram](https://github.com/jacovzap/CompositePattern/blob/main/Images/TreeDiagram/TreeDiagram.png | width=300)
+![TreeDiagram](https://github.com/jacovzap/CompositePattern/blob/main/Images/TreeDiagram/TreeDiagram.png)
 ### DIAGRAMA UML
 ![UML](https://github.com/jacovzap/CompositePattern/blob/main/Images/UMLDiagram/compositeDiagram.png)
 
