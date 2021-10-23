@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Tz6KTAppaGrzfJPOuYhFH7eFXhnIIKFd4XkcwgFDUrbu3FJwLzkAiYkqEv+xQn099vrNaP9ChRoE9y6XKZXCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JHONNY\\source\\repos\\EmpresaGhost\\EmpresaGhost\\EmpresaGhost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JHONNY\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\JHONNY\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

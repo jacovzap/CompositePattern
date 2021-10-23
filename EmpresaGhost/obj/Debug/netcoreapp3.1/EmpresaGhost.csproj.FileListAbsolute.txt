@@ -1,0 +1,14 @@
+C:\Users\JHONNY\source\repos\EmpresaGhost\EmpresaGhost\bin\Debug\netcoreapp3.1\EmpresaGhost.exe
+C:\Users\JHONNY\source\repos\EmpresaGhost\EmpresaGhost\bin\Debug\netcoreapp3.1\EmpresaGhost.deps.json
+C:\Users\JHONNY\source\repos\EmpresaGhost\EmpresaGhost\bin\Debug\netcoreapp3.1\EmpresaGhost.runtimeconfig.json
+C:\Users\JHONNY\source\repos\EmpresaGhost\EmpresaGhost\bin\Debug\netcoreapp3.1\EmpresaGhost.runtimeconfig.dev.json
+C:\Users\JHONNY\source\repos\EmpresaGhost\EmpresaGhost\bin\Debug\netcoreapp3.1\EmpresaGhost.dll
+C:\Users\JHONNY\source\repos\EmpresaGhost\EmpresaGhost\bin\Debug\netcoreapp3.1\EmpresaGhost.pdb
+C:\Users\JHONNY\source\repos\EmpresaGhost\EmpresaGhost\obj\Debug\netcoreapp3.1\EmpresaGhost.csprojAssemblyReference.cache
+C:\Users\JHONNY\source\repos\EmpresaGhost\EmpresaGhost\obj\Debug\netcoreapp3.1\EmpresaGhost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JHONNY\source\repos\EmpresaGhost\EmpresaGhost\obj\Debug\netcoreapp3.1\EmpresaGhost.AssemblyInfoInputs.cache
+C:\Users\JHONNY\source\repos\EmpresaGhost\EmpresaGhost\obj\Debug\netcoreapp3.1\EmpresaGhost.AssemblyInfo.cs
+C:\Users\JHONNY\source\repos\EmpresaGhost\EmpresaGhost\obj\Debug\netcoreapp3.1\EmpresaGhost.csproj.CoreCompileInputs.cache
+C:\Users\JHONNY\source\repos\EmpresaGhost\EmpresaGhost\obj\Debug\netcoreapp3.1\EmpresaGhost.dll
+C:\Users\JHONNY\source\repos\EmpresaGhost\EmpresaGhost\obj\Debug\netcoreapp3.1\EmpresaGhost.pdb
+C:\Users\JHONNY\source\repos\EmpresaGhost\EmpresaGhost\obj\Debug\netcoreapp3.1\EmpresaGhost.genruntimeconfig.cache
